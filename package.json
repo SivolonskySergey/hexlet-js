@@ -22,6 +22,11 @@
   },
   "homepage": "https://github.com/SivolonskySergey/hexlet-js#readme",
   "dependencies": {
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.20",
+    "sloc": "^0.2.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
   }
 }
