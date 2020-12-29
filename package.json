@@ -12,13 +12,16 @@
     "url": "git+https://github.com/SivolonskySergey/hexlet-js.git"
   },
   "author": {
-   "name": "Sivolonsky Sergey",
-   "email": "bibert.shmibert@gmail.com",
-   "url": "https://github.com/SivolonskySergey/"
+    "name": "Sivolonsky Sergey",
+    "email": "bibert.shmibert@gmail.com",
+    "url": "https://github.com/SivolonskySergey/"
   },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SivolonskySergey/hexlet-js/issues"
   },
-  "homepage": "https://github.com/SivolonskySergey/hexlet-js#readme"
+  "homepage": "https://github.com/SivolonskySergey/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
